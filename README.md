@@ -1,4 +1,4 @@
 # Othproj
 My first Git Repository.
 <br>
-Author: SungWoo
+Author: SungWoo1234 
